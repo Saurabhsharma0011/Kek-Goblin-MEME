@@ -33,6 +33,6 @@ Partner verification program with a Stratlens Verified Badge.
 
 Integration with launchpads, NFT marketplaces, and decentralized apps.
 
-📩 Contact:
-For access, early previews, or custom integrations, reach out at hello@stratlens.io.
+## platfrom use to create this framework 
+# i used vercel and chatgpt to complete this website with implement and design
 
