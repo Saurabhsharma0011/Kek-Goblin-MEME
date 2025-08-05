@@ -25,7 +25,6 @@ Built on a flexible, modular AI framework for rapid customization.
 Designed for transparency in a fast-moving blockchain ecosystem.
 
 Trusted by early-stage backers like Faction VC.
-
 📈 Future Plans:
 Dynamic scoring logic with custom weight configurations.
 
