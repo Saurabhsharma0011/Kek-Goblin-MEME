@@ -28,7 +28,6 @@ Trusted by early-stage backers like Faction VC.
 📈 Future Plans:
 Dynamic scoring logic with custom weight configurations.
 
-Partner verification program with a Stratlens Verified Badge.
 
 Integration with launchpads, NFT marketplaces, and decentralized apps.
 
