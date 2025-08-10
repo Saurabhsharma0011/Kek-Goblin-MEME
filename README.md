@@ -28,7 +28,6 @@ Trusted by early-stage backers like Faction VC.
 📈 Future Plans:
 Dynamic scoring logic with custom weight configurations.
 
-
 Integration with launchpads, NFT marketplaces, and decentralized apps.
 
 ## platfrom use to create this framework 
