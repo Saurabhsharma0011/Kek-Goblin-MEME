@@ -1,6 +1,5 @@
 🌐 StratlensIQ - Intelligent AI-Powered Token Audit Framework
 StratlensIQ is an advanced, intelligent AI Audit Agent Framework specifically designed for the Solana ecosystem. It enables developers, founders, and communities to deploy customizable AI agents that perform secure, data-driven audits on tokens, offering insightful trust scores and risk analysis without requiring wallet connections.
-
 🚀 Key Features:
 🧠 Intelligent Audits: Leverages AI to provide context-aware, intelligent analysis of token data.
 
