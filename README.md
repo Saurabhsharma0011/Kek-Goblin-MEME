@@ -15,7 +15,6 @@ StratlensIQ is an advanced, intelligent AI Audit Agent Framework specifically de
 Submit your project details (token name, supply, team info, lock info).
 
 StratlensIQ AI cross-verifies the data with live blockchain data and APIs.
-
 Receives an instant, human-readable audit report with a dynamic trust score (0-100).
 
 🌱 Why StratlensIQ?
